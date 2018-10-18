@@ -1,1 +1,1 @@
-# Reinforcement-learning--Q-learning-by-openAI-Gym
+# Reinforcement learning Q learning by openAI Gym
